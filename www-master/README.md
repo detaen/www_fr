@@ -2,5 +2,5 @@
 
 > Accompanying your transformation
 
-> domain : www.detaen.com
+> domain : www.detaen.fr
 
