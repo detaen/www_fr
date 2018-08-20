@@ -1,0 +1,114 @@
+{
+  "description": "Accompanying your transformation",
+  "scrollMessage": "scroll down <br /> to see more",
+  "portraitMode": "Please use portrait orientation",
+  "PageNotFound": "Page not found",
+  "PageError": "An error occured",
+  "BackToHome": "Back to Home",
+  "section1": {
+    "title": "Banking industry",
+    "slug": "banking-industry",
+    "description": "Detaen Consulting accompanies the transformation within the banking industry",
+    "subSections": [
+      {
+        "title": "Accompanying your transformation",
+        "color": "#f3997b",
+        "infos": [
+          {
+            "message": "Organization evolution"
+          },
+          {
+            "message":"Regulatory requirements",
+            "subInfos": [
+              {
+                "message": "Data Management"
+              },
+              {
+                "message": "Finance-Risk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Supporting your strategy",
+        "color": "#fccb8d",
+        "infos": [
+          {
+            "message": "Strategic plans design"
+          },
+          {
+            "message":"Strategic actions follow-up"
+          },
+          {
+            "message":"Project Management"
+          }
+        ]
+      },
+      {
+        "title": "Operational support",
+        "color": "#bed3b1",
+        "infos": [
+          {
+            "message": "On purpose team membership"
+          },
+          {
+            "message":"Process audit"
+          },
+          {
+            "message":"Processes improvement and solutions"
+          }
+        ]
+      }
+    ]
+  },
+  "section2":  {
+    "title": "Other industries",
+    "slug": "other-industries",
+    "description": "Detaen Consulting, partner of any firm in its organization evolution",
+    "titleList" : "Accompanying your organization evolution",
+    "infos": [
+      {
+        "message":"Supporting your strategy"
+      },
+      {
+        "message":"Operational support"
+      },
+      {
+        "message":"Onshore/offshore processes audit"
+      },
+      {
+        "message":"Outsourced processes audit"
+      }
+    ]
+  },
+  "section3":  {
+    "title": "About us",
+    "slug": "about-us",
+    "description": "Detaen consulting, firm with a banking-industry background in Paris outskirts",
+    "subTitle" : "Recently created",
+    "subTitle2" : "Small European actor based in Paris Outskirts",
+    "subTitle3" : "Banking industry footprint",
+    "infos": [
+      {
+        "message":"More than 10 years working for European Investment Banking leader"
+      },
+      {
+        "message": "International environment"
+      },
+      {
+        "message":"Corporate topics: Costs processes, Data Management, Outsourcing, Transformation, Organization evolution, Dedicated studies"
+      },
+      {
+        "message":"Business topics: financing activities, market activities"
+      }
+    ]
+  },
+  "section4":  {
+    "title": "Contact us",
+    "slug": "contact-us",
+    "description": "Contact Detaen Consulting to design solutions",
+    "subTitle" : "Let’s design the solution together:",
+    "mail": "contact@detaen.com"
+  }
+}
