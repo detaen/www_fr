@@ -1,0 +1,114 @@
+{
+  "description": "Vous accompagnez dans votre transformation",
+  "scrollMessage": "Faites défiler <br /> pour en voir plus",
+  "portraitMode": "Merci d'utiliser le mode portrait",
+  "PageNotFound": "Page introuvable",
+  "PageError": "Une erreur est survenue",
+  "BackToHome": "Revenir à l'accueil",
+  "section1": {
+    "title": "Secteur bancaire",
+    "slug": "secteur-bancaire",
+    "description": "Detaen Consulting accompagne la transformation au sein du secteur bancaire",
+    "subSections": [
+      {
+        "title": "Vous accompagnez dans votre transformation",
+        "color": "#f3997b",
+        "infos": [
+          {
+            "message": "Évolution de l’organisation"
+          },
+          {
+            "message":"Besoins réglementaires",
+            "subInfos": [
+              {
+                "message": "Gestion de la donnée"
+              },
+              {
+                "message": "Finance-Risques"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Accompagner votre stratégie",
+        "color": "#fccb8d",
+        "infos": [
+          {
+            "message": "Définition des plans stratégique"
+          },
+          {
+            "message":"Suivi des actions"
+          },
+          {
+            "message":"Gestion de projet"
+          }
+        ]
+      },
+      {
+        "title": "Support opérationnel",
+        "color": "#bed3b1",
+        "infos": [
+          {
+            "message": "Immersion dans les équipes"
+          },
+          {
+            "message":"Audit des processus"
+          },
+          {
+            "message":"Solutions & amélioration des processus"
+          }
+        ]
+      }
+    ]
+  },
+  "section2":  {
+    "title": "Autres secteurs",
+    "slug": "autres-secteurs",
+    "description": "Detaen Consulting, partenaire de toutes les entreprises dans l’évolution de leur organisation",
+    "titleList" : "Accompagner l’évolution de votre organisation",
+    "infos": [
+      {
+        "message":"Accompagner votre stratégie"
+      },
+      {
+        "message":"Support opérationnel"
+      },
+      {
+        "message":"Audit des processus sur sites"
+      },
+      {
+        "message":"Audit des processus externalisés"
+      }
+    ]
+  },
+  "section3":  {
+    "title": "Qui sommes-nous?",
+    "slug": "qui-sommes-nous",
+    "description": "Detaen Consulting, entreprise avec une expérience significative du secteur bancaire en région parisienne",
+    "subTitle" : "Entreprise récemment créée",
+    "subTitle2" : "Acteur européen basé en région parisienne",
+    "subTitle3" : "Expérience bancaire significative",
+    "infos": [
+      {
+        "message":"Plus de 10 ans passés chez un leader européen en banque d’investissement"
+      },
+      {
+        "message": "Environnement international"
+      },
+      {
+        "message":"Sujets de pilotage : Processus de coûts, Gestion de données, Externalisation, Transformation, Évolution de l’organisation, Études"
+      },
+      {
+        "message":"Sujets bancaires : activités de financement et de marché"
+      }
+    ]
+  },
+  "section4":  {
+    "title": "Nous contacter",
+    "slug": "nous-contacter",
+    "description": "Contactez Detaen Consulting pour définir les solutions à vos défis",
+    "subTitle" : "Définissons ensemble la solution :",
+    "mail": "contact@detaen.com"
+  }
+}
